@@ -1,4 +1,4 @@
-import Logo from "D:/DreamFusion/dreamFusion/public/LogoColor.svg";
+import Logo from "/public/LogoColor.svg";
 
 export default function Header() {
   return (
