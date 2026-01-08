@@ -1,4 +1,4 @@
-import Logo from "D:/DreamFusion/dreamFusion/public/LogoWhite.svg"
+import Logo from "/public/LogoWhite.svg"
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300 px-6 md:px-20 py-10">
