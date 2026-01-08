@@ -1,0 +1,93 @@
+export const projects = [
+  {
+    id: 1,
+    title: "Modern Logo Brand",
+    category: "Logo Design",
+    tag: "Logo Design",
+    tools: ["Photoshop", "Illustrator"],
+    image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    gallery: [
+"/assets/projects/Logo/1.png",
+"/assets/projects/Logo/2.1.jpg",
+"/assets/projects/Logo/2.jpg",
+"/assets/projects/Logo/3.jpg",
+"/assets/projects/Logo/4.jpg",
+"/assets/projects/Logo/5.jpg",
+"/assets/projects/Logo/6.jpg",
+    
+    ],
+  },
+  {
+    id: 2,
+    title: "Creative Agency Workspace",
+    category: "Poster Design",
+    tag: "Poster",
+    tools: ["Canva", "Photoshop"],
+    image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    gallery: [
+      "assets/projects/GRWZ/1Feed Post.png",
+      "assets/projects/GRWZ/Carousel Cover.png",
+      "assets/projects/GRWZ/Carousel Cover1.png",
+      "assets/projects/GRWZ/Carousel Cover3.png",
+      "assets/projects/GRWZ/Reel Cover.png",
+      "assets/projects/GRWZ/Story.png",
+    ],
+  },
+  {
+    id: 3,
+    title: "Professional Design Studio",
+    category: "Video Editing",
+    tag: "Video Editing",
+    tools: ["DaVinci Resolve"],
+    image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    gallery: [
+
+    ],
+  },
+  {
+  id: 4,
+  title: "Modern Wallpaper & Banner",
+  category: "Branding",
+  tag: ["Branding"],
+  tools: ["Photoshop", "Illustrator"],
+  image: "/assets/patrik-michalicka-r3iAqHb7JWs-unsplash.jpg",
+  gallery: [
+"/assets/projects/OldWork/ALPD.jpg",
+"/assets/projects/OldWork/BANNER.jpg",
+"/assets/projects/OldWork/Dhoni Poster.jpg",
+"/assets/projects/OldWork/Github card.png",
+"/assets/projects/OldWork/GOPAL PRASAD PROFILE POSTER.jpg",
+"/assets/projects/OldWork/LiveThumbnail min.jpg",
+  ],
+},
+{
+  id: 5,
+  title: "Photo Editing",
+  category: "Poster Design",
+  tag: ["New Editing"],
+  tools: ["Photoshop"],
+  image: "assets/projects/PhotoEditing/Swati1.png",
+  gallery: [
+"assets/projects/PhotoEditing/Gopal Family.png",
+"assets/projects/PhotoEditing/Me_Collage.png",
+"assets/projects/PhotoEditing/Swati1.png",
+"assets/projects/PhotoEditing/Swati2.png",
+  ],
+},
+{
+  id: 6,
+  title: "Brand Custom Wallpaper",
+  category: "Branding",
+  tag: ["Wallpaper"],
+  tools: ["Photoshop"],
+  image: "assets/projects/Wallpaper/Scroll Effect-01.jpg",
+  gallery: [
+"assets/projects/Wallpaper/Artboard 1.png",
+"assets/projects/Wallpaper/Scroll Effect-01.jpg ",
+"assets/projects/Wallpaper/Scroll Phone Effect.jpg ",
+"assets/projects/Wallpaper/W-1.jpg",
+"assets/projects/Wallpaper/ww-01.png",
+  ],
+},
+
+];
