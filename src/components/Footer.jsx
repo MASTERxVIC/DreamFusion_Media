@@ -1,4 +1,3 @@
-import Logo from "/public/LogoWhite.svg"
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-300 px-6 md:px-20 py-10">
@@ -6,7 +5,7 @@ export default function Footer() {
         {/* Left Section */}
         <div>
            <img
-                  src={Logo}
+                  src="/LogoWhite.svg"
                   alt="Dreamfusion Media Logo"
                   className="h-20 w-auto cursor-pointer"
                 />
