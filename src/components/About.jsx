@@ -19,7 +19,7 @@ export default function About() {
         <div className="relative flex justify-center px-4">
   <div className="relative flex justify-center px-4">
   <img
-    src="/public/assets/AtulPromo.png"
+    src="/assets/AtulPromo.png"
     alt="Atul Promo"
     className="
       w-full

@@ -36,7 +36,7 @@ export default function Hero() {
 
 
         <a
-  href="assets/Growzy Media Atul-Resume.pdf" // yaha aapka resume ka path
+  href="/assets/Growzy Media Atul-Resume.pdf" // yaha aapka resume ka path
   download
   className="border border-gray-300 px-8 py-3 rounded-full font-medium text-gray-700 hover:bg-green-500 hover:text-white flex items-center gap-2"
 >
