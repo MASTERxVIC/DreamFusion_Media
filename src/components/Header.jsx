@@ -1,11 +1,11 @@
-import Logo from "/public/LogoColor.svg";
+
 
 export default function Header() {
   return (
     <header className="w-full px-6 lg:px-16 py-4 flex items-center justify-between">
       {/* Logo */}
       <img
-        src={Logo}
+        src="/LogoColor.svg"
         alt="Dreamfusion Media Logo"
         className="h-12 w-auto cursor-pointer"
       />
